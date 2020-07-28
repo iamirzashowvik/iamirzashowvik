@@ -20,11 +20,13 @@
 
 <br/>
 <br/>
+
+
 - 🔭 I’m currently working on Bidyasagor.
-- 🏫 Studying Wet Process Engineering  in  [Bangladesh University of Textiles (BUTEX)](https://www.butex.edu.bd/)
+- 🏫 Studying Wet Process Engineering  in  [Bangladesh University of Textiles (BUTEX)](https://www.butex.edu.bd/).
 - 🌱 I’m currently working on Flutter and learning Node.JS(TypeScript).
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Facebook - @mirzashowvik](https://fb.com/mirzashowvik) , [telegram - @mirzaShowvik](https://t.me/mirzaShowvik)
+- 📫 How to reach me: [Facebook - @mirzashowvik](https://fb.com/mirzashowvik) , [telegram - @mirzaShowvik](https://t.me/mirzaShowvik).
 - 😀 Love to code.
 - ⚡ Day Dreamer.
   
