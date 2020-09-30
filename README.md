@@ -22,7 +22,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on Bidyasagor.
+- 🔭 I’m currently working from home 🏫 .
 - 🏫 Studying Wet Process Engineering  in  [Bangladesh University of Textiles (BUTEX)](https://www.butex.edu.bd/).
 - 🌱 I’m currently working on Flutter and learning Node.JS(TypeScript).
 - 💬 Ask me about Flutter or any tech related stuff.
@@ -42,6 +42,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=iamirzashowvik&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 
-<a href="https://github.com/iampawan">
+<a href="https://github.com/iamirzashowvik">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamirzashowvik&theme=dark&hide_langs_below=1" />
 </a>
