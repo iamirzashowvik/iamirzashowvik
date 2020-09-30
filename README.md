@@ -22,7 +22,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on Bidyasagor.
+- 🔭 I’m currently working from home 🏫 .
 - 🏫 Studying Wet Process Engineering  in  [Bangladesh University of Textiles (BUTEX)](https://www.butex.edu.bd/).
 - 🌱 I’m currently working on Flutter and learning Node.JS(TypeScript).
 - 💬 Ask me about Flutter or any tech related stuff.
