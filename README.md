@@ -20,7 +20,7 @@
 
 <br/>
 <br/>
-
+<codersrank-skills-chart username="iamirzashowvik"></codersrank-skills-chart>
 
 - 🔭 I’m currently working on Bidyasagor.
 - 🏫 Studying Wet Process Engineering  in  [Bangladesh University of Textiles (BUTEX)](https://www.butex.edu.bd/).
