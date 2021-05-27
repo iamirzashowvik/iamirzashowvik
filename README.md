@@ -40,7 +40,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-⚡ My App Became Top 1 in Top Free Education Google Play Store.<br/><br/>
+⚡ My App (MEDX) Became Top 1 in Top Free Education Google Play Store.<br/><br/>
+<a href="https://play.google.com/store/apps/details?id=com.medX.bidyasagormedX">Check This App</a>
 <img height="300" width="300" src="https://i.pinimg.com/originals/42/58/c8/4258c86b678ec3aae3c8b44e73e0709d.jpg"><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=iamirzashowvik&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 <br/>
