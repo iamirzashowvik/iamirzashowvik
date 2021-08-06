@@ -1,19 +1,19 @@
 ### Hello World, I'm <a href="https://iamirzashowvik.github.io/portfolio/">Mirza Showvik</a> ! 👋
 
 
-<a href="https://twitter.com/Mirza09206465">
+<a href="https://twitter.com/Mirza09206465" target="_blank">
   <img align="left" alt="Mirza's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/mirzashowvik">
+<a href="https://linkedin.com/in/mirzashowvik" target="_blank">
   <img align="left" alt="Mirza's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/iamirzashowvik">
+<a href="https://github.com/iamirzashowvik" target="_blank">
   <img align="left" alt="Mirza's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://t.me/mirzaShowvik">
+<a href="https://t.me/mirzaShowvik" target="_blank">
   <img align="left" alt="Mirza's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.facebook.com/mirzashowvik/">
+<a href="https://www.facebook.com/mirzashowvik/" target="_blank">
   <img align="left" alt="Mirza's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -22,7 +22,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on <a href="https://www.facebook.com/now.com.bd">Now</a>.
+- 🔭 I’m currently working on <a href="https://www.facebook.com/now.com.bd" target="_blank">Now</a>.
 - 🏫 Studying Wet Process Engineering  in  [Bangladesh University of Textiles (BUTEX)](https://www.butex.edu.bd/).
 - 🌱 I’m currently working on Flutter and learning Node.JS(TypeScript).
 - 💬 Ask me about Flutter or any tech related stuff.
@@ -41,7 +41,7 @@
 
 
 ⚡ My App (MEDX) Became Top 1 in Top Free Education Google Play Store.<br/><br/>
-<a href="https://play.google.com/store/apps/details?id=com.medX.bidyasagormedX" terget="blank">Check This App</a><br/>
+<a href="https://play.google.com/store/apps/details?id=com.medX.bidyasagormedX" target="_blank">Check This App</a><br/>
 <img height="300" width="300" src="https://i.pinimg.com/originals/42/58/c8/4258c86b678ec3aae3c8b44e73e0709d.jpg"><br/>
 <img src="https://github-readme-stats.vercel.app/api?username=iamirzashowvik&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 <br/>
