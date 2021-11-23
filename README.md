@@ -2,7 +2,7 @@
 ### Hello World, I'm <a href="https://iamirzashowvik.github.io/portfolio/">Mirza Showvik</a> ! 👋
 
 
-<a href="https://twitter.com/Mirza09206465" target="_blank">
+<a href="https://twitter.com/iamirzashowvik" target="_blank">
   <img align="left" alt="Mirza's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/mirzashowvik" target="_blank">
@@ -14,7 +14,7 @@
 <a href="https://t.me/mirzaShowvik" target="_blank">
   <img align="left" alt="Mirza's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.facebook.com/mirzashowvik/" target="_blank">
+<a href="https://www.facebook.com/iamirzashowvik/" target="_blank">
   <img align="left" alt="Mirza's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 
@@ -27,7 +27,7 @@
 - 🏫 Studying Wet Process Engineering  in  [Bangladesh University of Textiles (BUTEX)](https://www.butex.edu.bd/).
 - 🌱 I’m currently working on Flutter and learning Node.JS(TypeScript).
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Facebook - @mirzashowvik](https://fb.com/mirzashowvik) , [telegram - @mirzaShowvik](https://t.me/mirzaShowvik).
+- 📫 How to reach me: [Facebook - @mirzashowvik](https://fb.com/iamirzashowvik) , [telegram - @mirzaShowvik](https://t.me/mirzaShowvik).
 - 😀 Love to code.
 - ⚡ Day Dreamer.
   
