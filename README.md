@@ -43,7 +43,7 @@
 
 <!-- ⚡ My App (MEDX) Became Top 1 in Top Free Education Google Play Store.<br/><br/>
 <a href="https://play.google.com/store/apps/details?id=com.medX.bidyasagormedX" target="_blank">Check This App</a><br/> -->
-<img height="300" width="300" src="https://i.pinimg.com/originals/42/58/c8/4258c86b678ec3aae3c8b44e73e0709d.jpg"><br/>
+<!-- <img height="300" width="300" src="https://i.pinimg.com/originals/42/58/c8/4258c86b678ec3aae3c8b44e73e0709d.jpg"><br/> -->
 <img src="https://github-readme-stats.vercel.app/api?username=iamirzashowvik&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
 <br/>
 <a href="https://github.com/iampawan">
