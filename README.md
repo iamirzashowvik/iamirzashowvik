@@ -23,7 +23,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on <a href="https://www.facebook.com/now.com.bd" target="_blank">Now</a>.
+- 🔭 I’m currently working on <a href="https://web.facebook.com/getmunchies.now" target="_blank">Now</a>.
 - 🏫 Studying Wet Process Engineering  in  [Bangladesh University of Textiles (BUTEX)](https://www.butex.edu.bd/).
 - 🌱 I’m currently working on Flutter and learning Node.JS(TypeScript).
 - 💬 Ask me about Flutter or any tech related stuff.
