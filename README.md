@@ -3,7 +3,7 @@
 
 
 <a href="https://twitter.com/iamirzashowvik" target="_blank">
-  <img align="left" alt="Mirza's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Mirza's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" color="blue"/>
 </a>
 <a href="https://linkedin.com/in/mirzashowvik" target="_blank">
   <img align="left" alt="Mirza's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
