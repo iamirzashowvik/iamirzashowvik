@@ -1,5 +1,5 @@
 <h1 align="center">Hello Mirza Here, welcome to my profile.</h1>
-<h3 align="center">Passionate in devOps, CNCF,Terraform, K8s, Web3, Scraping, Data mining, Database, and new tech.</h3>
+<h3 align="center">Passionate in Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamirzashowvik&label=Profile%20views&color=0e75b6&style=flat" alt="iamirzashowvik" /> </p>
 
