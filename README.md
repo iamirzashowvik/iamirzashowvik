@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **New tech that revolutionise**
 
-- 📫 How to reach me **showvikmirza@gmail.com**
+- 📫 How to reach me **officials.mirza@gmail.com**
 
 - 🛠 Learning Microservices, System Design, Docker & K8S
 
