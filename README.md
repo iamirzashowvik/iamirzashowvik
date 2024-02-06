@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **officials.mirza@gmail.com**
 
-- 🖥️ Portfolio **mirzashowvik.com**
+- 🖥️ Portfolio <a href="https://www.mirzashowvik.com/" style="color:blue;">mirzashowvik.com</a>
 
 - 🛠 Learning Microservices, System Design, Docker & K8S
 
