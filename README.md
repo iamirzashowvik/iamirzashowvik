@@ -3,8 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamirzashowvik&label=Profile%20views&color=0e75b6&style=flat" alt="iamirzashowvik" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamirzashowvik" alt="iamirzashowvik" /></a> </p>
-
+ <img
+          src="https://raw.githubusercontent.com/iamirzashowvik/cf_stats/main/output/light_card.svg"
+          alt=""
+        />
 
 - 💬 Ask me about **New tech that revolutionise**
 
