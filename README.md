@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<h3 align="center">Mid-Level Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 <p align="center">Passionate about backend, frontend, and Flutter & iOS. I love building impactful products.</p>
 
 <h3>About Me</h3>
