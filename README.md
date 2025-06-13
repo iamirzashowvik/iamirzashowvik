@@ -21,7 +21,7 @@
   <li>Currently exploring <strong>DevOps</strong> and <strong>Kubernetes (K8S)</strong>.</li>
   <li>Started my journey as a Mobile Developer in March 2020. I have over <strong>4 years of experience</strong> across 5 companies, delivering robust full-stack solutions.</li>
   <li>Committed to high-quality outputs, with a focus on <strong>research and development</strong>.</li>
-  <li>Proficient in designing and managing critical systems, including <strong>microservices</strong>, <strong>distributed systems</strong>, <strong>Kubernetes</strong>, and <strong>message queues (MQ)</strong>.</li>
+<!--   <li>Proficient in designing and managing critical systems, including <strong>microservices</strong>, <strong>distributed systems</strong>, <strong>Kubernetes</strong>, and <strong>message queues (MQ)</strong>.</li> -->
 </ul>
 
 <h3 align="left">Connect with Me:</h3>
