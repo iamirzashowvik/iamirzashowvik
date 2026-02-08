@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.mirzashowvik.com/" target="_blank" style="color:blue;">
-    <b>mirzashowvik.com</b>
+  <a href="https://mirzashowvik.vercel.app/" target="_blank" style="color:blue;">
+    <b>mirzashowvik.vercel.app</b>
   </a>
 </p>
 
